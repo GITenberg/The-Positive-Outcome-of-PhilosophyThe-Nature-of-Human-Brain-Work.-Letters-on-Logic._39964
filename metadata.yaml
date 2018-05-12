@@ -1,0 +1,45 @@
+_repo: The-Positive-Outcome-of-PhilosophyThe-Nature-of-Human-Brain-Work.-Letters-on-Logic._39964
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Untermann, Ernest
+    alias: Unterman, Ernest
+    gutenberg_agent_id: '36215'
+    url: http://www.gutenberg.org/2009/agents/36215
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dietzgen, Joseph
+    birthdate: 1828
+    deathdate: 1888
+    gutenberg_agent_id: '40334'
+    url: http://www.gutenberg.org/2009/agents/40334
+  editors:
+  - agent_name: Dietzgen, Joseph, Jr.
+    gutenberg_agent_id: '41849'
+    url: http://www.gutenberg.org/2009/agents/41849
+  - agent_name: Dietzgen, Eugen
+    alias: Dietzgen, Eugene
+    gutenberg_agent_id: '41829'
+    url: http://www.gutenberg.org/2009/agents/41829
+description: ''
+gutenberg_issued: '2012-06-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39964'
+  lccn: 06038881
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'B'
+- !lcsh 'Knowledge, Theory of'
+- !lcsh 'Logic'
+- !lcsh 'Philosophy'
+title: 'The Positive Outcome of Philosophy
+
+  The Nature of Human Brain Work. Letters on Logic.'
+url: http://www.gutenberg.org/ebooks/39964
